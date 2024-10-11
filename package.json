@@ -1,0 +1,19 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advanced React: Design System, Design Patterns, Performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatu-dev-labs/advanced-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatu-dev-labs/advanced-react/issues"
+  },
+  "homepage": "https://github.com/tatu-dev-labs/advanced-react#readme"
+}
