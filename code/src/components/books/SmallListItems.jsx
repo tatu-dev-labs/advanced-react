@@ -1,5 +1,6 @@
-export const SmallBooksListItems = () => {
+export const SmallBooksListItems = ({book}) => {
+  const {name, price} = book;
   return (
-    <div>SmallListItems</div>
+    <h2>{name} / {price}</h2>
   )
 }
