@@ -1,0 +1,21 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ELIFECYCLE",
+    "errno": "ENOENT",
+    "syscall": "spawn",
+    "file": "sh",
+    "pkgid": "code@0.1.0",
+    "stage": "start",
+    "script": "react-scripts start",
+    "pkgname": "code",
+    "err": {
+      "name": "Error",
+      "message": "code@0.1.0 start: `react-scripts start`\nspawn ENOENT",
+      "code": "ELIFECYCLE",
+      "stack": "Error: code@0.1.0 start: `react-scripts start`\nspawn ENOENT\n    at ChildProcess.<anonymous> (/Users/afranco/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:93073:22)\n    at ChildProcess.emit (node:events:527:28)\n    at maybeClose (node:internal/child_process:1092:16)\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:302:5)"
+    }
+  }
+}
